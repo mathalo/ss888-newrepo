@@ -2,12 +2,12 @@
   "name": "ss888-newrepo",
   "theme": "syntax",
   "version": "0.0.0",
-  "description": "A short description of your syntax theme",
+  "description": "การลงทุนทุกประเภทสามารถเข้าถึงได้ที่นี่ ตรวจสอบว่าแต่ละเกมมีส่วนทำให้สมาชิกได้รับเงินจริง ไม่ต้องกังวล สถานการณ์ทางการเงินมีเสถียรภาพมากที่สุด ความเสถียรของระบบเป็นเลิศ ไม่มีเวลาแฝงเมื่อเล่น ไม่มีทางที่จะหมดความสนใจในเกมอย่างแน่นอน ด้วยบริการที่ดีกว่าความประทับใจที่ฉันเคยมีกับเว็บไซต์อย่างแน่นอนe",
   "keywords": [
-    "syntax",
-    "theme"
+    "newrepo",
+    "เล่นพนันออนไลน์"
   ],
-  "repository": "https://github.com/atom/ss888-newrepo",
+  "repository": "https://github.com/mathalo/ss888-newrepo",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
